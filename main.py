@@ -10,7 +10,7 @@ from pygame.locals import *
 from boid import Boid
 
 default_boids = 100
-default_geometry = "1000x1000"
+default_geometry = "640x640"
 
 
 def update(dt, boids):
